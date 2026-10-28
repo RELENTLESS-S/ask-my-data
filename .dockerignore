@@ -1,0 +1,13 @@
+﻿.venv/
+src/.venv/
+__pycache__/
+*.py[cod]
+.git/
+.env
+.env.*
+!.env.example
+*.log
+logs/
+data/
+databases/
+chroma_db/
